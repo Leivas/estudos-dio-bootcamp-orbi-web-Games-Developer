@@ -1,6 +1,8 @@
 body {
     background: #f7f7f7;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
 }
 
 .photo{
@@ -40,6 +42,8 @@ a{
     margin: 0;
     margin-bottom: 15px;
     text-transform: capitalize;
+    width: 100%;
+    text-align: justify;
 }
 
 .post_image{
